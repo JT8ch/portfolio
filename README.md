@@ -7,7 +7,7 @@
   - Diploma in Information Technology | Singapore Institute of Management, Singapore (_2020_)
 
 ## Projects
-**Data **
+**Data**
 - test
 - test test test
  
