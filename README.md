@@ -1,9 +1,14 @@
-# Software Developer
+# SOFTWARE DEVELOPER
 
 ### Education
-## Bachelor of Technology, University of Wollongong, Australia 
-During my time at univeresity.
+Bachelor of Computer Science, University of Wollongong, Australia 
+Double Major
+  - Big Data
+  - Digital Systems Security
 
+Diploma in Information Technology, Singapore Institute of Management, Singapore
+Major
+  - Computer Science
 
 ### Projects
 
