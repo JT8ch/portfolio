@@ -7,7 +7,10 @@
   - Diploma in Information Technology | Singapore Institute of Management, Singapore (_2020_)
 
 ## Projects
-**Data**
-- test
-- test test test
- 
+**Java**
+- Account Registration and Verification
+- Restaurant System and Math Computation (_display menu item and total sum_)
+- Database Management System (_sorting and arrays_)
+- Decryption & Encryption and Verification of Account
+
+**Python**
