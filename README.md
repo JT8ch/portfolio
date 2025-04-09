@@ -1,17 +1,13 @@
 # SOFTWARE DEVELOPER
 
-### Education
-Bachelor of Computer Science, University of Wollongong, Australia 
-##
-Double Major
-  - Big Data
-  - Digital Systems Security
+#### Technical Skills: Python, SQL, Java, JavaScript, C#, C++
 
-Diploma in Information Technology, Singapore Institute of Management, Singapore
-##
-Major
-  - Information Technology
+## Education
+  - Bachelor of Computer Science | University of Wollongong, Australia (_2022_)
+  - Diploma in Information Technology | Singapore Institute of Management, Singapore (_2020_)
 
-### Projects
-
-### Skills
+## Projects
+**Data **
+- test
+- test test test
+ 
