@@ -13,4 +13,11 @@
 - Database Management System (_sorting and arrays_)
 - Decryption & Encryption and Verification of Account
 
+**JavaScript**
+
 **Python**
+
+**C#**
+
+**C++**
+
